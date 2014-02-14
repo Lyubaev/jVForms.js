@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * jVForms (javascript validate forms)
  * MIT licensed
  *
