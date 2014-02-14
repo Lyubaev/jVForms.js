@@ -1,4 +1,4 @@
-# MIT License
+﻿# MIT License
 Copyright (C) 2013 Luybaev Kirill lubaev.ka@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
